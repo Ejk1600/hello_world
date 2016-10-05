@@ -1,2 +1,3 @@
 # hello_world
-yes
+about me
+I like gaming and is do this for enginnering X3
